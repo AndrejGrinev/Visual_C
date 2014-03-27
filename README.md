@@ -1,4 +1,4 @@
-Visual_Csharp_examples
+Visual_C#_examples
 ======================
 
 примеры работы с C#
