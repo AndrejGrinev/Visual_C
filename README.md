@@ -1,4 +1,7 @@
-Visual_Csharp_examples
+﻿Visual_C#_examples
 ======================
+Пример работы с Visual C# 2010.
 
-примеры работы с C#
+Парсер футбольной статистики с сайта betexplorer.com
+
+

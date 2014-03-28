@@ -1,0 +1,8 @@
+C:\c_scan_betexplorer\scan_betexplorer_c\scan_betexplorer_c\bin\Debug\scan_betexplorer_c.exe
+C:\c_scan_betexplorer\scan_betexplorer_c\scan_betexplorer_c\bin\Debug\scan_betexplorer_c.pdb
+C:\c_scan_betexplorer\scan_betexplorer_c\scan_betexplorer_c\obj\x86\Debug\scan_betexplorer_c.Form1.resources
+C:\c_scan_betexplorer\scan_betexplorer_c\scan_betexplorer_c\obj\x86\Debug\scan_betexplorer_c.Properties.Resources.resources
+C:\c_scan_betexplorer\scan_betexplorer_c\scan_betexplorer_c\obj\x86\Debug\scan_betexplorer_c.exe
+C:\c_scan_betexplorer\scan_betexplorer_c\scan_betexplorer_c\obj\x86\Debug\scan_betexplorer_c.pdb
+C:\c_scan_betexplorer\scan_betexplorer_c\scan_betexplorer_c\obj\x86\Debug\scan_betexplorer_c.csprojResolveAssemblyReference.cache
+C:\c_scan_betexplorer\scan_betexplorer_c\scan_betexplorer_c\obj\x86\Debug\scan_betexplorer_c.csproj.GenerateResource.Cache
