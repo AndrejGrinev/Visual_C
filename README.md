@@ -1,4 +1,4 @@
-﻿Visual_C#_examples
+﻿﻿Visual_C#_examples
 ======================
 Пример работы с Visual C# 2010.
 
