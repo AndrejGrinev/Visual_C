@@ -9,7 +9,9 @@ using System.Windows.Forms;
 using System.Net;
 using System.IO;
 using System.Text.RegularExpressions;
-
+//
+// Это был частный фриланс(лишь бы работало), поэтому стандарты кода не соблюдались- не судите строго ;-)
+//
 namespace scan_betexplorer_c
 {
     public partial class Form1 : Form
@@ -712,6 +714,18 @@ namespace scan_betexplorer_c
           }
           this.textBox1.AppendText(" Всего== " + kk3 + nl);
           this.textBox1.AppendText("закончили 7.");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            animator1.Show(button1, true, AnimatorNS.Animation.HorizBlind);
+            animator1.Show(button2, true, AnimatorNS.Animation.HorizBlind);
+            animator1.Show(button3, true, AnimatorNS.Animation.HorizBlind);
+            animator1.Show(button4, true, AnimatorNS.Animation.HorizBlind);
+            animator1.Show(button5, true, AnimatorNS.Animation.HorizBlind);
+            animator1.Show(button6, true, AnimatorNS.Animation.HorizBlind);
+            animator1.Show(button7, true, AnimatorNS.Animation.HorizBlind);
+            animator1.Show(textBox1, true, AnimatorNS.Animation.HorizBlind);
         }
     }
 }
